@@ -3,7 +3,7 @@ using namespace std;
 class HumanBeings{
 	public :
 	void display(){
-		cout<<"hello human beings";
+		cout<<"hello  hello human beings";
 	}
 };
 int main()
